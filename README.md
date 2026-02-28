@@ -1,5 +1,5 @@
 # Compiled-Goldfish-5.4-DEV
-[Українська](readme.ukr.md) | [Русский](README.ru.md) | [Español](README.es.md)
+[Українська](README.ukr.md) | [Русский](README.ru.md) | [Español](README.es.md)
 
 This is a compiled Goldfish kernel for the Android Emulator. With this kernel, you can install Magisk.
 
